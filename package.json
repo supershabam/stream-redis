@@ -1,0 +1,22 @@
+{
+  "name": "stream-redis",
+  "version": "0.0.0",
+  "description": "streams implementing the redis communication protocol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/supershabam/stream-redis"
+  },
+  "keywords": [
+    "redis",
+    "stream"
+  ],
+  "author": "@supershabam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/supershabam/stream-redis/issues"
+  }
+}
