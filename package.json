@@ -18,5 +18,8 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/supershabam/stream-redis/issues"
+  },
+  "dependencies": {
+    "mocha": "~1.12.1"
   }
 }
